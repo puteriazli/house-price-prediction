@@ -4,6 +4,10 @@ This project is a simple **house price prediction system** built with **Machine 
 
 I built this project as a **junior-level portfolio**, but with a mindset close to real industry use cases: data-driven decisions, clear business insight, and user-friendly implementation.
 
+## Demo
+A short video demonstration of the system can be found here:  
+👉 **YouTube Demo:** https://www.youtube.com/watch?v=GWEWhdihsRo
+
 ---
 
 ## 🔍 Problem Background

@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction Web App (Indonesia)
+![Cuplikan layar_13-1-2026_0101_localhost](https://github.com/user-attachments/assets/5353ba4b-b478-4a98-a5ef-00a3d29d530b)# 🏠 House Price Prediction Web App (Indonesia)
 
 This project is a simple **house price prediction system** built with **Machine Learning + Web Application**. The main goal is to help users estimate a fair house selling price based on location and basic property features.
 
@@ -211,6 +211,23 @@ As a fresh graduate, my focus is building **clear, understandable, and useful sy
 - Improve location granularity
 - Model explainability (feature importance / SHAP)
 - User authentication and history
+
+---
+
+## 🖥️ Web Application Screenshots
+
+### Home Page
+![Cuplikan layar_13-1-2026_0101_localhost](https://github.com/user-attachments/assets/7981fb96-7ecf-49eb-b75e-f132fe583ad3)
+
+### Predict Result Page
+![Cuplikan layar_13-1-2026_0193_localhost](https://github.com/user-attachments/assets/892d9d21-8fa0-48fd-8355-bad90cd00b20)
+
+### Button Menu Page
+<img width="960" height="564" alt="Screenshot 2026-01-13 001527" src="https://github.com/user-attachments/assets/e33c33f2-a218-4a9a-85ff-714f15c1aa91" />
+
+<img width="960" height="564" alt="Screenshot 2026-01-13 001153" src="https://github.com/user-attachments/assets/5278cc3a-b12f-4e24-a0b3-e6d7b5462d63" />
+
+<img width="960" height="564" alt="Screenshot 2026-01-13 001203" src="https://github.com/user-attachments/assets/8cd532cd-7ec5-42be-87ee-1da802d9a081" />
 
 ---
 

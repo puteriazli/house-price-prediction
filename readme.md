@@ -97,20 +97,57 @@ Main focus:
 
 ```
 project-root/
+D:.
+│   readme.md
 │
-├── backend/
-│   ├── app.py
-│   ├── model.pkl
-│   └── requirements.txt
+├───dataset
+│   ├───preprocessing
+│   │       yogyakarta_clean.csv
+│   │
+│   └───raw
+│           yogyakarta.csv
 │
-├── frontend/
-│   ├── src/
-│   │   ├── App.jsx
-│   │   ├── index.css
-│   │   └── data/
-│   └── package.json
+├───house-price-prediction-website
+│   │   readme.md
+│   │   readme.txt
+│   │
+│   ├───backend
+│   │   │   app.py
+│   │   │   requirements.txt
+│   │   │
+│   │   └───models
+│   │           yogyakarta_model.pkl
+│   │
+│   └───frontend
+│       │   .gitignore
+│       │   eslint.config.js
+│       │   index.html
+│       │   package-lock.json
+│       │   package.json
+│       │   postcss.config.js
+│       │   README.md
+│       │   tailwind.config.js
+│       │   vite.config.js
+│       │
+│       ├───public
+│       │       vite.svg
+│       │
+│       └───src
+│           │   App.css
+│           │   App.jsx
+│           │   index.css
+│           │   main.jsx
+│           │
+│           ├───assets
+│           │       react.svg
+│           │
+│           └───data
+│                   lokasi.js
+│                   lokasi.json
 │
-└── README.md
+└───model
+        data-preparation.ipynb
+        house-prediction-model.ipynb
 ```
 
 ---
